@@ -1,11 +1,18 @@
 ---
 title: "First Post"
 publishDate: "25 January 2023"
-description: "A quick intro about me and my career as a software engineer.A quick intro about me and my career as a software engineer"
+description: "A quick intro about tailwind css, the framework itself can be used progressively or as a foundation for your entire design and UI"
 tags: ["tailwind css", "beginner"]
 ---
 
 ## What is Tailwind CSS exactly?
+
+<Image
+	src="https://res.cloudinary.com/practicaldev/image/fetch/s--pOjkdUcm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uw5gl802vt9o5jlt6l4i.png"
+	alt=""
+	width={550}
+	height={460}
+/>
 
 Tailwind CSS is a utility-first CSS framework designed to enable users to create applications faster and easier. You can use utility classes to control the layout, color, spacing, typography, shadows, and more to create a completely custom component design — without leaving your HTML or writing a single line of custom CSS.
 It's a customizable and low-level CSS framework that provides all the building blocks to create designs without any styles.

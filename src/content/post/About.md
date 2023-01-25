@@ -1,6 +1,6 @@
 ---
 title: "Hello World!!"
-publishDate: "12 June 2022"
+publishDate: "22 December 2022"
 description: "A quick intro about me and my career as a software engineer."
 tags: ["hello", "about"]
 ---
